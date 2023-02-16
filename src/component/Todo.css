@@ -226,3 +226,7 @@ input:focus {
   -webkit-transform: translateY(0) scale(1, 1);
   transform: translateY(0) scale(1, 1);
 }
+
+h1{
+  color: white;
+}
